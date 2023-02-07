@@ -1,3 +1,8 @@
+# DL-DIY potential project ideas
+
+- read and understand the paper
+- replicate in pytorch [tiny_nerf](https://github.com/bmild/nerf/blob/master/tiny_nerf.ipynb)
+
 # NeRF-pytorch
 
 
